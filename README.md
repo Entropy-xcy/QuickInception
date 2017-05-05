@@ -1,4 +1,7 @@
 # Quick Application about retraining the Google Inception v3 model
+## Abstract
+>This repo is a quick demo for beginners to get used to retraining the Google Inception v3 model(or so called Tensorflow for Poets). With this repo, you will be able to quickly configure the environment and do a quick demo about how to classify images using the Inception model.
+>For more infos check the Google official docs about 'Tensorflow for Poets'
 ## Installation
 ### Ubuntu(x64 only)
 ```
