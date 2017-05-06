@@ -9,7 +9,7 @@ wget http://entropy-xcy.bid/configure.sh
 chmod +x ./configure.sh
 
 # Requires root
-./configure 
+./configure.sh
 
 # you can also use the method same as Windows and Mac OS
 ```
