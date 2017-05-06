@@ -1,1 +1,1 @@
-#Empty folder to restore the Inception v3 model
+# Empty folder to restore the Inception v3 model
